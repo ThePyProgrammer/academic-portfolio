@@ -1,18 +1,22 @@
 metadata:
-  last_updated: '2026-06-15'
+  last_updated: '2026-07-01'
 papers:
   SYflkiQAAAAJ:2osOgNQ5qMEC:
-    citations: 33
+    citations: 34
     title: 'WalledEval: A Comprehensive Safety Evaluation Toolkit for Large Language Models'
     year: '2024'
   SYflkiQAAAAJ:UeHWp8X0CEIC:
-    citations: 3
+    citations: 5
     title: Adapting Automatic Speech Recognition for Accented Air Traffic Control Communications
     year: '2025'
   SYflkiQAAAAJ:W7OEmFMy1HYC:
     citations: 3
     title: 'Evaluating AI for Finance: Is AI Credible at Assessing Investment Risk Appetite?'
     year: '2025'
+  SYflkiQAAAAJ:_FxGoFyzp5QC:
+    citations: 0
+    title: 'ASTRA: A Scalable Next-Generation ATCO Training Simulator with Autonomous Simpilots'
+    year: '2026'
   SYflkiQAAAAJ:qjMakFHDy7sC:
     citations: 0
     title: 'Tris: A Screening System for Trinary Star System Candidates'
